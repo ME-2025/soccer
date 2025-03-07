@@ -24,12 +24,12 @@ body {
 }
 
 h1 {
-    color: maroon;
+    color: rgb(117, 97, 97);
     font: bold 50px sans-serif;
 }
 
 h2 {
-    color: midnightblue;
+    color: rgb(0, 0, 0);
     font-family: sans-serif;
 }
 
@@ -49,7 +49,7 @@ img {
 
 .logo {
     box-shadow: none;
-    border-color: rgb(255, 255, 255);
+    border-color: rgb(194, 194, 194);
 }
 
 section {
@@ -57,13 +57,13 @@ section {
 }   
 
 a {
-    color: white;
+    color: rgb(173, 173, 173);
     text-decoration: none;
     font: bold 14px "Arial Black", Gadget, sans-serif;
 }
 
 a:link {
-    color:rgba(255, 255, 255, 0.733);
+    color:rgba(164, 164, 164, 0.733);
 }
 
 a:visited {
@@ -71,6 +71,6 @@ a:visited {
 }
 
 a:hover {
-    color: rgb(255, 0, 0);
+    color: rgb(212, 2, 2);
     font-size: 15px;
 }
