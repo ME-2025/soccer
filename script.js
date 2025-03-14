@@ -1,34 +1,34 @@
 const Questions = [
     {
-        q: "Fill in the blank: Snow leopards live _____.",
-        a: [{text: "in the desert.", isCorrect: false},
-            {text: "in the jungle.", isCorrect: false},
-            {text: "in the mountains.", isCorrect: true},
-            {text: "in the city.", isCorrect: false},
+        q: "When was La Liga founded?",
+        a: [{text: "1976", isCorrect: false},
+            {text: "2002", isCorrect: false},
+            {text: "1929", isCorrect: true},
+            {text: "1878", isCorrect: false},
            ]
     },
     {
-        q: "Fill in the blank: Snow leopards have _____.",
-        a: [{text: "red, with whitish fur.", isCorrect: false},
-            {text: "whitish-gray fur.", isCorrect: true},
-            {text: "black stripes, with orange fur.", isCorrect: false},
-            {text: "white dots with black fur.", isCorrect: false},
+        q: "How many Champions League's Does Real Madrid have?",
+        a: [{text: "12", isCorrect: false},
+            {text: "15", isCorrect: true},
+            {text: "10", isCorrect: false},
+            {text: "20  ", isCorrect: false},
            ]
     },
     {
-        q: "Fill in the blank: Snow leopards use their tails for _____.",
-        a: [{text: "balance.", isCorrect: true},
-            {text: "killing their prey.", isCorrect: false},
-            {text: "grabbing objects.", isCorrect: false},
-            {text: "swinging.", isCorrect: false},
+        q: "How many players are on each team in?",
+        a: [{text: "12", isCorrect: false},
+            {text: "6", isCorrect: false},
+            {text: "17", isCorrect: false},
+            {text: "11", isCorrect: true},
            ]
     },
     {
-        q: "Fill in the blank: Snow leopards eat _____.",
-        a: [{text: "frogs.", isCorrect: false},
-            {text: "fish.", isCorrect: false},
-            {text: "lions.", isCorrect: false},
-            {text: "deer.", isCorrect: true},
+        q: "How many teams are in La Liga?",
+        a: [{text: "15", isCorrect: false},
+            {text: "22", isCorrect: false},
+            {text: "18", isCorrect: false},
+            {text: "20", isCorrect: true},
            ]
     },
     
